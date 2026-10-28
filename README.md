@@ -83,28 +83,6 @@ I’m a passionate developer who enjoys building clean, elegant, and impactful d
 
 ---
 
-## 🌸 Featured Projects
-
-### 💖 Project 1
-<a href="https://github.com/YashasviniSharma01/Project-Name">
-  <img align="left" width="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviniSharma01&repo=Project-Name&theme=radical" />
-</a>
-
-A short description of the project, its core functionality, and the technologies used.
-
-<br clear="left" />
-
-### ✨ Project 2
-<a href="https://github.com/YashasviniSharma01/Project-Name">
-  <img align="left" width="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YashasviniSharma01&repo=Project-Name&theme=radical" />
-</a>
-
-Another project summary with key features and what problem it solves.
-
-<br clear="left" />
-
----
-
 ## 🔥 Currently Focused On
 
 - Building smart, user-friendly products
@@ -114,14 +92,6 @@ Another project summary with key features and what problem it solves.
 
 ---
 
-## 💕 Fun Facts
-
-- 🧠 I enjoy turning concepts into actual working tools
-- 📚 I’m always learning something new in tech
-- ☕ Coffee + code = my happy place
-- 🌍 I love creating simple solutions to complex problems
-
----
 
 ## 🌐 Connect With Me
 
@@ -129,10 +99,10 @@ Another project summary with key features and what problem it solves.
   <a href="https://github.com/YashasviniSharma01">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/yashasvini-sharma-755b31227/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4FA3?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-sharmayashasvini1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-FF5DA2?style=flat-square&logo=gmail" />
   </a>
 </p>
