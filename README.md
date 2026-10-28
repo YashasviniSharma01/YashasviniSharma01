@@ -1,114 +1,112 @@
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=750&height=100&lines=Hi%2C+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&pause=1000\&color=FF4FA3\&center=true\&vCenter=true\&width=750\&height=100\&lines=Hi%2C+I)'m+Yashasvini+Sharma+%F0%9F%91%8B;Full-Stack+Developer+%7C+Creative+Coder;Turning+ideas+into+beautiful+products+%F0%9F%92%97" alt="Typing SVG" />
-\</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF4FA3&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Yashasvini+Sharma+%F0%9F%91%8B;Full-Stack+Developer+%7C+Creative+Coder;Building+beautiful+solutions+with+code+%F0%9F%92%8C" alt="Typing SVG" />
+</p>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/YashasviniSharma01](https://github.com/YashasviniSharma01)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-YashasviniSharma01-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-YashasviniSharma01-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/yashasvini-sharma-755b31227/](https://www.linkedin.com/in/yashasvini-sharma-755b31227/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-FF4FA3?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
-&#x20; \</a>
-&#x20; \<a href="mailto\:your-sharmayashasvini1\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-FF5DA2?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <a href="https://github.com/YashasviniSharma01">
+    <img src="https://img.shields.io/badge/GitHub-@YashasviniSharma01-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-FF5DA2?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-FF4FA3?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://komarev.com/ghpvc/?username=YashasviniSharma01&label=Profile%20Views&color=ff4fa3&style=flat-square](https://komarev.com/ghpvc/?username=YashasviniSharma01\&label=Profile%20Views\&color=ff4fa3\&style=flat-square)" alt="Profile Views"/>
-\</p>
-
----
-
-## 💗 About Me
-
-Hey there! I'm **Yashasvini Sharma**, a developer who loves turning ideas into clean, functional, and visually engaging digital experiences.
-
-I'm interested in building products that aren't just technically solid, but also **simple, intuitive, and enjoyable to use**.
-
-- 💻 **Focus:** Full-Stack Development, Web Applications & APIs
-- 🎨 **Love:** Clean UI, thoughtful UX & creative problem solving
-- 🤖 **Exploring:** AI-powered applications & intelligent automation
-- 🌱 **Learning:** Scalable architectures, modern frontend ecosystems & backend engineering
-- 🎯 **Goal:** Build meaningful products while continuously becoming a better engineer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashasviniSharma01&label=Profile%20Views&color=ff4fa3&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ About Me
 
-### 💻 Languages
+I’m a passionate developer who enjoys building clean, elegant, and impactful digital experiences. I like turning ideas into working products, learning new technologies, and solving real-world problems with code.
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)"/>
-&#x20; \<img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)"/>
-\</p>
-
-### 🎨 Frontend
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)"/>
-\</p>
-
-### ⚙️ Backend
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)"/>
-\</p>
-
-### 🗄️ Databases & Tools
-
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)"/>
-&#x20; \<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)"/>
-\</p>
+- 💖 Interested in: Full-Stack Development, Web Apps, APIs, and Product Design
+- 🌱 Currently learning: Modern frontend frameworks, scalable backend systems, and intelligent automation
+- 🎯 Goal: Build meaningful projects and keep growing as a better engineer
 
 ---
 
-## 📊 GitHub Activity
+## 💗 Tech Stack
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&theme=radical&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=YashasviniSharma01\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true)" height="180" alt="GitHub Stats"/>
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01&theme=radical&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01\&theme=radical\&hide_border=true)" height="180" alt="GitHub Streak"/>
-\</p>
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviniSharma01&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviniSharma01\&layout=compact\&theme=radical\&hide_border=true)" alt="Top Languages"/>
-\</p>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 📊 GitHub Stats
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/YashasviniSharma01](https://github.com/YashasviniSharma01)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/yashasvini-sharma-755b31227/](https://www.linkedin.com/in/yashasvini-sharma-755b31227/)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s%20Connect-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
-&#x20; \</a>
-&#x20; \<a href="mailto\:your-sharmayashasvini1\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Say%20Hello-FF5DA2?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Say%20Hello-FF5DA2?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-&#x20; \</a>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF4FA3&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+stopping+by!+%F0%9F%92%97;Keep+building.+Keep+learning.+Keep+creating](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=18\&pause=1000\&color=FF4FA3\&center=true\&vCenter=true\&width=600\&height=50\&lines=Thanks+for+stopping+by!+%F0%9F%92%97;Keep+building.+Keep+learning.+Keep+creating)." alt="Footer"/>
-\</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashasviniSharma01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-\<p align="center">
-&#x20; \<i>Made with curiosity, caffeine & lots of code ✨\</i>
-\</p>
+---
+
+## 🔥 Currently Focused On
+
+- Building smart, user-friendly products
+- Improving coding efficiency and software design
+- Exploring AI-powered ideas and automation
+- Writing better, cleaner, maintainable code
+
+---
+
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/YashasviniSharma01">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashasvini-sharma-755b31227/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF4FA3?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:your-sharmayashasvini1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-FF5DA2?style=flat-square&logo=gmail" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Thanks+for+visiting!+%F0%9F%99%82" alt="Thanks for visiting" />
+</p>
