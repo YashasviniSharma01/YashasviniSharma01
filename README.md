@@ -36,7 +36,6 @@ I’m a passionate developer who enjoys building clean, elegant, and impactful d
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -62,8 +61,6 @@ I’m a passionate developer who enjoys building clean, elegant, and impactful d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -71,8 +68,8 @@ I’m a passionate developer who enjoys building clean, elegant, and impactful d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffd6ea&bg_color=0d0b1a" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01&theme=radical&hide_border=true&stroke=ff4fa3&ring=ff4fa3&fire=ff4fa3&currStreakNum=ffd6ea&sideNums=ffd6ea&currStreakLabel=ffd6ea&background=0d0b1a" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&hide_border=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffd6ea&bg_color=0d0b1a" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
