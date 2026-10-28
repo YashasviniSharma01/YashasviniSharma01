@@ -68,8 +68,9 @@ I’m a passionate developer who enjoys building clean, elegant, and impactful d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&hide_border=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffd6ea&bg_color=0d0b1a" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01" alt="GitHub Streak" height="180" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashasviniSharma01&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff4fa3&icon_color=ff4fa3&text_color=ffd6ea&bg_color=0d0b1a" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashasviniSharma01&theme=radical&hide_border=true&stroke=ff4fa3&ring=ff4fa3&fire=ff4fa3&currStreakNum=ffd6ea&sideNums=ffd6ea&currStreakLabel=ffd6ea&background=0d0b1a" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
